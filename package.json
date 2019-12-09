@@ -1,0 +1,26 @@
+{
+  "name": "copyright-footer",
+  "version": "0.1.0",
+  "description": "This module allows a dynamic footer to be generated for js applications with an updated year and name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4rkdev1987/bjn-footer-copyright.git"
+  },
+  "keywords": [
+    "footer",
+    "copyright"
+  ],
+  "author": "Benjamin Nicklaus <marineepo@gmail.com> (https://www.npmjs.com/~d4rkdev1987)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D4rkdev1987/bjn-footer-copyright/issues"
+  },
+  "homepage": "https://github.com/D4rkdev1987/bjn-footer-copyright#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
