@@ -1,5 +1,5 @@
 {
-  "name": "copyright-footer",
+  "name": "bjn-copyright-footer",
   "version": "0.1.0",
   "description": "This module allows a dynamic footer to be generated for js applications with an updated year and name",
   "main": "index.js",
